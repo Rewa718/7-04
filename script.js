@@ -9,6 +9,6 @@ function myFunction () {
   if ((age < 12 || age > 21) && (day === 'Tuesday' || day === 'Thursday')) {
     alert('You can get student pricing')
   } else {
-    alert ('You cannot get student pricing')
+    alert('You cannot get student pricing')
   }
 }
